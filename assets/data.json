@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T18:52:40.372Z",
+  "checkedAt": "2026-10-25T01:00:34.907Z",
   "profile": {
     "login": "kinm-LC",
     "publicRepos": 1,
@@ -11,52 +11,6 @@
   "calendar": {
     "totalContributions": 4,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-10-19",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 0
-          },
-          {
-            "date": "2025-10-20",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 1
-          },
-          {
-            "date": "2025-10-21",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 2
-          },
-          {
-            "date": "2025-10-22",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 3
-          },
-          {
-            "date": "2025-10-23",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 4
-          },
-          {
-            "date": "2025-10-24",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 5
-          },
-          {
-            "date": "2025-10-25",
-            "contributionCount": 0,
-            "contributionLevel": "NONE",
-            "weekday": 6
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -2446,6 +2400,16 @@
             "contributionCount": 0,
             "contributionLevel": "NONE",
             "weekday": 6
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-10-25",
+            "contributionCount": 0,
+            "contributionLevel": "NONE",
+            "weekday": 0
           }
         ]
       }
