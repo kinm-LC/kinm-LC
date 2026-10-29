@@ -15,6 +15,6 @@ Ainda não há projetos públicos próprios para exibir.
 
 ![Tecnologias detectadas](assets/technologies.svg)
 
-Dados consultados em **2026-10-28T19:11:34.111Z**. Repositórios e seguidores: API pública. Estrelas: soma dos repositórios próprios, sem forks. Projetos: até três repositórios próprios não arquivados, excluindo este perfil, por estrelas e último push.
+Dados consultados em **2026-10-29T01:20:58.915Z**. Repositórios e seguidores: API pública. Estrelas: soma dos repositórios próprios, sem forks. Projetos: até três repositórios próprios não arquivados, excluindo este perfil, por estrelas e último push.
 
 Calendário: Contribuições retornadas pelo GitHub • últimos 12 meses. O cometa é uma animação decorativa; não altera os dados. Animações SVG dependem do visualizador; os painéis permanecem legíveis sem movimento.
